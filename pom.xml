@@ -4,9 +4,9 @@
   xsi:schemaLocation = "http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ibm.cloud.garage</groupId>
-  <artifactId>99-bottles</artifactId>
+  <artifactId>katas-java</artifactId>
   <packaging>jar</packaging>
-  <name>99-bottles-java-kata</name>
+  <name>kent-beck-money-example</name>
   <version>1.0.0</version>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
